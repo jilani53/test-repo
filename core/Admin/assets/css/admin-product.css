@@ -1,0 +1,21 @@
+.post-type-product th#taxonomy-sp_smart_brand{width:10%}
+.taxonomy-sp_smart_brand table.wp-list-table .column-thumb {
+	width: 52px;
+	text-align: center;
+	white-space: nowrap;
+	color:#2271b1;
+}
+.taxonomy-sp_smart_brand table.wp-list-table td.column-thumb img {
+	margin: 0;
+	width: auto;
+	height: auto;
+	max-width: 40px;
+	max-height: 40px;
+	vertical-align: middle;
+}
+#adminmenu #menu-posts-smart_brand_sc li:nth-child(6) a {
+    color: #f9be48;
+}
+.spsb-footer-text-star{
+	color: #dba617;
+}

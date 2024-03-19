@@ -1,0 +1,202 @@
+
+.wrap.about-wrap.sp-brand-help {
+    position: relative;
+    margin: auto;
+}
+.wrap.about-wrap.sp-brand-help .about-text {
+    position: relative;
+    margin: 0;
+    color: #555d66;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    margin: 20px 0 50px 0;
+    padding: 0 100px;
+}
+.wrap.about-wrap.sp-brand-help .about-text .text {
+    width: 85%;
+    display: inline-block;
+}
+
+.sp-brand-help .sp-brand-font-icon {
+    font-size: 30px;
+    display: block;
+    color: #e2127a;
+    font-family: fontawesome;
+    font-style: normal;
+}
+.sp-brand-help .sp-brand-feature {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.sp-brand-help .feature-section h1 {
+    margin: 0;
+}
+.sp-brand-help .sp-brand-feature h3 {
+    font-size: 16px;
+    margin-top: 18px;
+}
+.sp-brand-help .sp-brand-feature p {
+    margin-top: 0.6em;
+    font-size: 14px;
+    margin-bottom: 28px;
+}
+.about-wrap .plugin-section .sp-plugin-section-title h2 {
+    font-size: 2.2em;
+    color: #32373c;
+    font-weight: 400;
+}
+.about-wrap .plugin-section .sp-plugin-section-title h4 {
+    font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    color: #555d66;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+.about-wrap .plugin-section .sp-brand-plugin {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.about-wrap .plugin-section .sp-brand-plugin .sp-brand-plugin-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.about-wrap .plugin-section .sp-brand-plugin .sp-brand-plugin-content h3 {
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+.about-wrap .plugin-section .sp-brand-plugin .sp-brand-plugin-content p {
+    margin-top: 0;
+}
+
+.sp-brand-help .feature-section.three-col,
+.sp-brand-help .plugin-section .three-col {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.sp-brand-help .feature-section.two-col {
+    margin-top: 50px;
+}
+div.sp-brand-help .feature-section .sp-brand-feature {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 30px 30px 38px 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+div.sp-brand-help .feature-section .sp-brand-feature h3 {
+    font-size: 16px;
+    margin-top: 12px;
+}
+div.sp-brand-help .feature-section i.sp-font {
+    color: #0f68a9;
+    font-size: 22px;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+div.sp-brand-help.about-wrap h1 {
+    font-size: 36px;
+    text-align: center;
+    font-weight: 600;
+    margin: 100px 0 0 0;
+    width: 100%;
+}
+
+div.sp-brand-help.about-wrap .sp-brand-text-center {
+    text-align: left;
+}
+.about-wrap .plugin-section .three-col .col {
+    background: #fff;
+}
+
+div.sp-brand-help.about-wrap .sp-brand-feature a.button{
+    background-color: #0f68a9;
+    background-image: linear-gradient(62deg,#0f68a9,#30c67c);
+    border-color: transparent;
+    color: #fff;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    padding: 9px 18px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    border: none;
+    line-height: 20px;
+    transition: .5s;
+    -webkit-transition: .5s;
+}
+div.sp-brand-help.about-wrap .sp-brand-feature a.button:hover{
+    background-color: #0f68a9;
+    background-image: linear-gradient(62deg, #30c67c, #0f68a9);
+    color: #fff;
+}
+.about-wrap .plugin-section .three-col .col .sp-brand-plugin {
+    border: 1px solid #ddd;
+}
+.about-wrap .plugin-section .three-col .col .sp-brand-plugin .sp-brand-plugin-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.about-wrap .plugin-section .three-col .col .sp-brand-plugin .sp-brand-plugin-content h3 {
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+.about-wrap .plugin-section .three-col .col .sp-brand-plugin .sp-brand-plugin-content p {
+    margin-top: 0;
+}
+.about-wrap .plugin-section .sp-plugin-section-title h2 {
+    font-size: 2.2em;
+    color: #32373c;
+    font-weight: 400;
+}
+.about-wrap .plugin-section .sp-plugin-section-title h4 {
+    font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    color: #555d66;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+.sp-brand-help.about-wrap [class$="-col"] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.sp-brand-help.about-wrap [class$="-col"] .col {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+}
+.sp-brand-help.about-wrap .col {
+    margin-top: 40px;
+}
+.about-wrap [class$="-col"] .col + .col {
+    margin-left: 20px;
+}
+@media screen and (max-width: 782px) {
+    .about-wrap .three-col .col {
+        min-width: 48% !important;
+        max-width: 48% !important;
+        margin-left: 0 !important;
+    }
+}

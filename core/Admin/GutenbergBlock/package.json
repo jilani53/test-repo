@@ -1,0 +1,24 @@
+{
+  "name": "gutenbergblock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/block-editor": "^12.0.0",
+    "@wordpress/blocks": "^12.9.0",
+    "@wordpress/components": "^23.9.0",
+    "@wordpress/create-block": "^4.16.0",
+    "@wordpress/element": "^5.9.0",
+    "@wordpress/escape-html": "^2.32.0",
+    "@wordpress/i18n": "^4.32.0"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.3.0"
+  }
+}

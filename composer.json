@@ -1,0 +1,20 @@
+{
+    "name": "shapedplugin/smart-brands-for-woocommerce",
+    "description": "Brands showcasing plugin for WooCommerce.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "ShapedPlugin",
+            "email": "support@shapedplugin.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ShapedPlugin\\SmartBrands\\": "core/"
+        },
+        "files": []
+    },
+    "require": {}
+}
